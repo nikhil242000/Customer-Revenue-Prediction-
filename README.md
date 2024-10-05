@@ -5,5 +5,3 @@
 5. run the command, inside the mysite directory in console: python manage.py migrate
 6. run the command in same directory: python manage.py runserver
 
-- django-admin startproject <name_of_project>
-- python manage.py startapp <name_of_app>
